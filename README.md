@@ -10,15 +10,15 @@ A Claude Code skill that lets you paste clipboard images directly into the CLI â
 
 ## Installation
 
-Copy `paste-image.md` to your Claude Code skills directory:
+Copy `paste-image.md` to your Claude Code commands directory:
 
 ```
-~/.claude/skills/paste-image.md
+~/.claude/commands/paste-image.md
 ```
 
 On Windows:
 ```
-C:\Users\<you>\.claude\skills\paste-image.md
+C:\Users\<you>\.claude\commands\paste-image.md
 ```
 
 ## Requirements
